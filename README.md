@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Singhshiv3108@gmail.com
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: I am using BATMANN
+- ⚡ Fun fact: I am BATMANN
   
 
 <!---
