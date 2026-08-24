@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @ShivSingh3108
 - 👀 I’m interested in art 
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Singhshiv3108@gmail.com
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: I am BATMANN
-  
+- ⚡ Fun fact: 
 
 <!---
 ShivSingh3108/ShivSingh3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
